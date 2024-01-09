@@ -5,5 +5,19 @@
 <instance-profile id="hi" name="Help Instance"
                  start-page="Vendi-Starter-Theme.md">
 
-    <toc-element topic="Vendi-Starter-Theme.md"/>
+    <toc-element topic="Vendi-Starter-Theme.md">
+        <toc-element topic="Entities.md">
+            <toc-element topic="Reusable-Content.md"/>
+            <toc-element topic="Testimonial.md"/>
+        </toc-element>
+        <toc-element topic="Components.md">
+            <toc-element topic="Accordion.md"/>
+            <toc-element topic="Basic-Copy.md"/>
+            <toc-element topic="Blockquote.md"/>
+            <toc-element topic="Callout.md"/>
+            <toc-element topic="Figure.md"/>
+            <toc-element topic="Component-Reusable-Content.md"/>
+            <toc-element topic="Component-Testimonial.md"/>
+        </toc-element>
+    </toc-element>
 </instance-profile>
