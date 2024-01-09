@@ -6,6 +6,10 @@
                  start-page="Vendi-Starter-Theme.md">
 
     <toc-element topic="Vendi-Starter-Theme.md">
+        <toc-element topic="Documentation-Notes.md">
+            <toc-element topic="Headings.md"/>
+            <toc-element topic="Widgets.md"/>
+        </toc-element>
         <toc-element topic="Entities.md">
             <toc-element topic="Reusable-Content.md"/>
             <toc-element topic="Testimonial.md"/>
