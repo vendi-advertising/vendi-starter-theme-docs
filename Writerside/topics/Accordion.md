@@ -1,5 +1,7 @@
 # Accordion
 
+![accordion-demo.png](accordion-demo.png)
+
 ## Overview
 
 ## Fields
